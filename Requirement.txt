@@ -1,0 +1,22 @@
+Section entire Width(bg-darkblue).
+
+DIV[Horizontal-flex=> margin-auto width max-widthspace/gap]
+
+section-text[H1,div(width,height,backgrond color),text(para)]
+
+
+Attributes
+1 text-size
+2 style
+3 text color
+4 margin 
+5 padding
+6 linke height
+
+ṭ
+BUTTON 
+
+properties[(text-white) bg-blue bold rounded hover transiition]
+
+
+Section-Image[width/max-width,absolute].
